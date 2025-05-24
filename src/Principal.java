@@ -50,6 +50,6 @@ public class Principal {
         filtro.filtra(episodio);
 
         var peliculaBraian = new Pelicula();
-        peliculaBraian.setNombre("Star wars");
+        peliculaBraian.setNombre("Star war");
     }
 }
